@@ -1,0 +1,29 @@
+.Body{
+ background-color: lightgray; 
+ font-family: 'Courier New', Courier, monospace;  
+}
+.top{
+    text-align: center;
+    color: coral;
+}
+.photo{
+    width: 300px;
+    margin: 275px;
+    background-color: coral;
+}
+.img{
+    width: inherit;
+}
+.photo h3, p{
+    padding: 5px;
+}
+.date{
+    float: right;
+    height: 7px;
+    margin-top: 1px;
+}
+.title{
+    float: center;
+    height: 7px;
+    margin-top: 1px;
+}
